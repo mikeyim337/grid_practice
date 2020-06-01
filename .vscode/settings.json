@@ -1,0 +1,5 @@
+{
+    "color-highlight.markerType": "dot-before",
+    "editor.formatOnSave": true,
+    "prettier.alignObjectProperties": true
+}
